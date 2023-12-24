@@ -1,10 +1,10 @@
 Student CRUD
 
-# The api-docs.postman_collection.json file contains the API endpoints and data structure
+<h3> <strong> The api-docs.postman_collection.json file contains the API endpoints and data structure </strong></h3>
 
-# Before running the app please run following commands:
- npm install
- npx prisma migrate dev
+<h4> Before running the app please run following commands:</h4>
+ npm install<br />
+ npx prisma migrate dev<br />
  npm run dev
 
-# .envsample provided to get familiar with .env structure
+<h4>.envsample provided to get familiar with .env structure</h4>
