@@ -1,6 +1,6 @@
 Student CRUD
 
-<h3> <strong> The api-docs.postman_collection.json file contains the API endpoints and data structure </strong></h3>
+<h3>PLEASE NOTE: The <strong>api-docs.postman_collection.json</strong> file contains the API endpoints and data structure</h3>
 
 <h4> Before running the app please run following commands:</h4>
  npm install<br />
